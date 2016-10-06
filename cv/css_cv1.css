@@ -1,0 +1,68 @@
+body{
+	width:800px;
+	margin:auto;
+}
+
+
+h1{
+	text-align:center;
+	text-decoration:underline;
+	font-style:italic;
+	color:#0198f4;
+	font-size:1.8em;
+}
+
+dd{
+	display:inline;
+}
+
+dt{
+	font-weight: bold;
+}
+
+img{
+	border:0px;
+}
+
+li{
+	display:inline;
+	margin-right:8px;
+}
+
+li a{
+	text-decoration:none;
+}
+
+
+li a:hover {
+	text-decoration:underline;
+	color:#69d104;
+}
+
+#info, #form, #xp, #inter {
+	border:dashed 2px;
+	padding-left:5px;
+}
+
+
+.champ{
+	border: solid 3px;
+	background-color:#f4c3b9;
+	border-top:solid #f40118 20px;
+	border-bottom:0px;
+}
+
+.mev {
+    font-family: fantasy;
+    text-decoration: underline;
+    font-size:1em;
+    
+}
+
+.caract {
+    font-style: italic;
+}
+
+.hdp {
+    text-decoration: none;
+}
