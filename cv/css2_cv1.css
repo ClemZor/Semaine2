@@ -1,0 +1,99 @@
+body{
+	width:1000px;
+	margin:auto;
+	background-color: #006699;
+}
+
+.header {
+	margin-top: 20px;
+	margin-bottom: 40px;
+	border-left: solid;
+	border-right: solid;
+	text-align: center;
+}
+
+.header ul li {
+	background-color: red;
+	border-style: solid;
+	border-width: thin;
+	padding : 5px 3px 5px 3px;
+	color:#0198f4;
+	
+	
+}
+h1{
+	text-align:center;
+	text-decoration: underline;
+	font-style:italic;
+	color:#0198f4;
+	font-size:1.8em;
+}
+
+dd{
+	display:inline;
+}
+
+dt{
+	font-weight: bold;
+}
+
+img{
+	border:0px;
+}
+
+li{
+	display:inline;
+	margin-right:8px;
+}
+
+li a{
+	text-decoration:none;
+}
+
+
+li a:hover {
+	text-decoration:none;
+	color:#69d104;
+}
+
+#info, #form, #xp, #inter {
+	border:dashed 2px;
+	padding-left:5px;
+	width: 800px;
+	margin-left: 180px;
+}
+
+#fiche{
+	float:left;
+	position: fixed;
+	background-color: #99CCCC;
+	color: #006699;
+	padding: 5px 5px;
+	border-radius: 10%;
+	border-color: black;
+}
+
+.champ{
+	border: solid 3px;
+	background-color:#99CCCC;
+	border-top:solid #f40118 20px;
+	border-bottom:0px;
+	width: 800px;
+	margin-left: 170px;
+	padding : 10px 10px;
+}
+
+.mev {
+    font-family: fantasy;
+    text-decoration: underline;
+    font-size:1em;
+    
+}
+
+.caract {
+    font-style: italic;
+}
+
+.hdp {
+    text-decoration: none;
+}
